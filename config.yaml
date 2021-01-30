@@ -1,0 +1,7 @@
+baseURL: http://example.org/
+languageCode: en-us
+DefaultContentLanguage: en
+title: Application Modernization Cookbook
+copyright: "@2021, VMware Software, Inc. All Rights Reserved, Confidential"
+theme: hugo-theme-docdock
+publishDir: public
